@@ -1,7 +1,7 @@
 # Pokedex 🔥
 
 Página web estática con temática de pokemon. 
-[Pokedex en github-page](https://jhonh-ksx.reto_pokedex.github.page.io)
+[Pokedex en github-page](https://jhonh-ksx.github.io/reto_pokedex/)
 
 
 ## Mobile 📱
